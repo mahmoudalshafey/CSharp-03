@@ -94,6 +94,17 @@ namespace C__Basics03
             //}
             #endregion
 
+            #region Question 10
+            
+            //void PrintFirstBook(string[] books) {
+            //    if (books.Length == 0) return;
+            //    Console.WriteLine(books[0]);
+
+            //}
+            //string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+            //PrintFirstBook(books);
+            #endregion
+
 
         }
     }

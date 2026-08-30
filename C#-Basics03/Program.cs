@@ -57,7 +57,15 @@ namespace C__Basics03
             //}
             #endregion
 
+            #region Question 6
 
+            //int i = 0;
+            //do
+            //{
+            //    Console.WriteLine("Checking book...");
+            //    i++;
+            //} while (i < 3);
+            #endregion
         }
     }
 }

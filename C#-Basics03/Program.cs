@@ -1,4 +1,6 @@
-﻿namespace C__Basics03
+﻿using System.Threading.Channels;
+
+namespace C__Basics03
 {
     internal class Program
     {
@@ -15,20 +17,29 @@
             #endregion
 
             #region Question 2
-            
-            string title = "Refactoring";
-            switch (title) { 
-                case "clean code":
-                    Console.WriteLine("Great choice!");
-                    break;
-                case "Refactoring":
-                    Console.WriteLine("Nice pick!");
-                    break;
-                default:
-                    Console.WriteLine("Never heard of it.");
-                    break;
-            }
+
+            //string title = "Refactoring";
+            //switch (title) { 
+            //    case "clean code":
+            //        Console.WriteLine("Great choice!");
+            //        break;
+            //    case "Refactoring":
+            //        Console.WriteLine("Nice pick!");
+            //        break;
+            //    default:
+            //        Console.WriteLine("Never heard of it.");
+            //        break;
+            //}
             #endregion
+
+            #region Question 3
+
+            //int pages = 464;
+            //string sizeLabel = (pages>300) ? "Long Book" : "Short Book";
+
+            #endregion
+
+
         }
     }
 }

@@ -76,6 +76,15 @@ namespace C__Basics03
             //}
             #endregion
 
+            #region Question 8
+
+            //string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+            //for (int i = 0; i < books.Length; i++) {
+            //    if (books[i] == "Refactoring") break;
+            //    Console.WriteLine(books[i]);
+            //}
+            #endregion
+
 
         }
     }

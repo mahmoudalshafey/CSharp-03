@@ -66,6 +66,17 @@ namespace C__Basics03
             //    i++;
             //} while (i < 3);
             #endregion
+
+            #region Question 7
+
+            //string[] books = { "Clean Code", "The Pragmatic Programmer", "Refactoring" };
+            //foreach (string book in books)
+            //{
+            //    Console.WriteLine(book);
+            //}
+            #endregion
+
+
         }
     }
 }
